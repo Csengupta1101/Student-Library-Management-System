@@ -12,6 +12,7 @@ The goal of this project is to initiate a student library using Object-oriented 
 *	Separate Student & Library Class.
 *	User input as options on what task to be executed.
 
+![self codes](https://github.com/Csengupta1101/Student-Library-Management-System/blob/main/lms.jpeg)
 
 ## Workflow –
 * Defining the Library Class with the argument of Books to be initiated at first.
